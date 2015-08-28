@@ -1,0 +1,36 @@
+nav{
+	font-family: Helvetica, sans-serif;
+	background: white;
+	width: 55%;
+	margin: 0 auto;
+}
+
+ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: block;
+	text-align: center;
+}
+
+li{
+	display: inline-block;
+	
+
+}
+
+a{
+	
+	
+	border-style: solid;
+    border-color: red;
+	border-radius: 5px;
+	background: linear-gradient(#f37813,#db3403);
+	text-decoration: none;
+	color: white;
+	display: block;
+	
+	font-size: 1.3em;
+	text-shadow: 0 -2px 2px rgba(0,0,0,0.5);
+	padding: 15px 30px;  
+}
